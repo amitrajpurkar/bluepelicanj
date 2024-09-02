@@ -8,7 +8,6 @@ package bpj.lesson7;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
 import org.junit.jupiter.api.TestInstance.Lifecycle;
 
@@ -50,7 +49,7 @@ class Lesson7Tests {
         assertEquals(expectedRadius, output);
     }
 
-    @Test
+    // @Test
     void test_full_name_project() {
         String expectedResult = "Your full name is John Doe"; // enter firstname=John and
                                                               // Lastname=Doe

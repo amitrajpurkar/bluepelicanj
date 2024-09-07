@@ -13,7 +13,6 @@ public class Lesson1 implements InputProcessor {
 
     @Override
     public String processStringInputs(String[] a) {
-        // TODO Auto-generated method stub
         String s = "";
 
         if (a == null) {

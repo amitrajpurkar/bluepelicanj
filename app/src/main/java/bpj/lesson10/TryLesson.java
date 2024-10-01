@@ -1,25 +1,21 @@
 package bpj.lesson10;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
 import java.util.Scanner;
 
 import bpj.InputProcessor;
 
 public class TryLesson implements InputProcessor {
 
-    private final double factorForVoltar=0.091;
-    private final double factorForKrypton=0.720;
-    private final double factorForFertos=0.865;
-    private final double factorForServontos=4.612;
+    private final double factorForVoltar = 0.091;
+    private final double factorForKrypton = 0.720;
+    private final double factorForFertos = 0.865;
+    private final double factorForServontos = 4.612;
 
-    // public  List planetsWithWeights = new ArrayList();
-    //         new Map<String, Double>("Voltar", 0.091),
-    //         new Map<String, Double>("Krypton", 0.720),
-    //         new Map<String, Double>("Fertos", 0.865),
-    //         new Map<String, Double>("Servontos", 4.612)   
+    // public List planetsWithWeights = new ArrayList();
+    // new Map<String, Double>("Voltar", 0.091),
+    // new Map<String, Double>("Krypton", 0.720),
+    // new Map<String, Double>("Fertos", 0.865),
+    // new Map<String, Double>("Servontos", 4.612)
     // };
 
     @Override
@@ -29,9 +25,9 @@ public class TryLesson implements InputProcessor {
         int weightOnEarth = reader.nextInt();
 
         System.out.println("\n");
-        for(List p: planetsWithWeights){
-            System.out.println(p.get(0) + " " + p.get(1));
-        }
+        // for(List p: planetsWithWeights){
+        // System.out.println(p.get(0) + " " + p.get(1));
+        // }
 
         System.out.println("\n 1. Voltar");
         System.out.println(" 2. Krypton");
@@ -40,34 +36,24 @@ public class TryLesson implements InputProcessor {
         System.out.print("Enter your choice: ");
         int planet = reader.nextInt();
         return switch (planet) {
-            case 1 -> showWeightOn(weightOnEarth, "voltar");
-            case 2 -> showWeightOn(weightOnEarth, "krypton");
-            case 3 -> showWeightOn(weightOnEarth, "fertos");
-            case 4 -> showWeightOn(weightOnEarth, "servontos");
-            default -> String.valueOf(weightOnEarth);
+        case 1 -> showWeightOn(weightOnEarth, "voltar");
+        case 2 -> showWeightOn(weightOnEarth, "krypton");
+        case 3 -> showWeightOn(weightOnEarth, "fertos");
+        case 4 -> showWeightOn(weightOnEarth, "servontos");
+        default -> String.valueOf(weightOnEarth);
         };
     }
 
     // TODO: implement the rest of the methods
-    public String showWeightOn(int weightOnEarth, String planet){
-        double wt;
-        switch(planet){
-            case "voltar":
-                wt = weightOnEarth * factorForVoltar;
-                break;
-            case "krypton":
-                wt = weightOnEarth * factorForKrypton;
-                break;
-            case "fertos":
-                wt = weightOnEarth * factorForFertos;
-                break;
-            case "servontos":
-                wt = weightOnEarth * factorForServontos;
-                break;
-            default:
-                wt = 0;
-        }
+    public String showWeightOn(int weightOnEarth, String planet) {
+        double wt = switch (planet) {
+        case "voltar" -> weightOnEarth * factorForVoltar;
+        case "krypton" -> weightOnEarth * factorForKrypton;
+        case "fertos" -> weightOnEarth * factorForFertos;
+        case "servontos" -> weightOnEarth * factorForServontos;
+        default -> 0;
+        };
         return String.valueOf(wt);
     }
-    
+
 }

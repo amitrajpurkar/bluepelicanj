@@ -22,6 +22,12 @@ public class Exercises {
         exer13();
         exer14();
         exer15();
+        
+        exer16();
+        exer17();
+        exer18();
+        exer19();
+        exer20();
     }
 
     /**

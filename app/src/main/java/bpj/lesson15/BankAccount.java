@@ -13,6 +13,11 @@ public class BankAccount {
         balance = initialBalance;
     }
 
+    public BankAccount(double initialBalance, String accountOwnersName) {
+        name = accountOwnersName;
+        balance = initialBalance;
+    }
+
     public BankAccount(String accountOwnersName) {
         name = accountOwnersName;
     }

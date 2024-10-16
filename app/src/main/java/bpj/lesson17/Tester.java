@@ -7,8 +7,9 @@ public class Tester {
     public static void main(String[] args) {
         Scanner kbReader = new Scanner(System.in);
 
-        System.out.print("Enter a sentence that has to be encrypted: ");
-        String sentence = kbReader.nextLine();
+        // System.out.print("Enter a sentence that has to be encrypted: ");
+        // String sentence = kbReader.nextLine();
+        String sentence = "this is a very big morning";
 
         System.out.println("Original sentence is: " + sentence);
         

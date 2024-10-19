@@ -1,7 +1,13 @@
 # bluepelicanj
 **experimenting with blue pelican java book**
-
 ---
+
+<p style="text-align:right;font-size:small;backgroundcolor:powderblue">
+here are some handy links for me !!
+<br/>markdown reference [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+<br/>git emojis.. can use in markdown (and possibly in commit messages) [link](https://gist.github.com/rxaviers/7360908)
+<br/>few git emojis to be used in commit messages [link](https://gitmoji.dev)
+</p>
 ---
 
 Lessons in this book: (a.k.a _table of contents_)

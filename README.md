@@ -1,8 +1,9 @@
 # bluepelicanj
-experimenting with blue pelican java book
+**experimenting with blue pelican java book**
+---
+---
 
-
-Lessons in this book: table of contents
+Lessons in this book: (a.k.a _table of contents_)
  * Lesson 1: Hello World    [exercises](./app/src/main/java/bpj/InputProcessor.java) [testCase](./app/src/test/java/bpj/lesson1/Lesson1Tests.java)
  * Lesson 2: Variable Types     [exercises](./app/src/main/java/bpj/lesson2/Tester.java)
  * Lesson 3: Simple String operations   [exercises](./app/src/main/java/bpj/lesson3/TryLesson3.java)

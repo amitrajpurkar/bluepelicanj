@@ -35,4 +35,9 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 28: Bitwise operators
  * Lesson 29: advanced bitwise
  * Lesson 30: Random numbers
- * ..... to be completed !!
+ * ...  to be completed !!
+ * ...
+ * ...
+ * Lesson 57: Lookup tables, hashing
+ * Distance to Meandering Trail
+ * Golden Nuggets

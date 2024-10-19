@@ -2,12 +2,11 @@
 **experimenting with blue pelican java book**
 ---
 
-```
-here are some handy links for me !!
- * markdown reference (https://www.markdownguide.org/basic-syntax/)
- * git emojis.. can use in markdown (and possibly in commit messages) (https://gist.github.com/rxaviers/7360908)
- * few git emojis to be used in commit messages (https://gitmoji.dev)
-```
+```here are some handy links for the author !!```
+ * [markdown reference](https://www.markdownguide.org/basic-syntax/)
+ * [git emoji list](https://gist.github.com/rxaviers/7360908)
+ * [emojis for commit messages](https://gitmoji.dev)
+
 ---
 
 Lessons in this book: (a.k.a _table of contents_)

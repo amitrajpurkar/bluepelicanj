@@ -3,9 +3,8 @@
 ---
 
 ```here are some handy links for the author !!```
- * [markdown reference](https://www.markdownguide.org/basic-syntax/)
- * [git emoji list](https://gist.github.com/rxaviers/7360908)
- * [emojis for commit messages](https://gitmoji.dev)
+ * [markdown reference](https://www.markdownguide.org/basic-syntax/); [emoji list](https://gist.github.com/rxaviers/7360908); [commit emojis](https://gitmoji.dev)
+ * 
 
 ---
 
@@ -40,9 +39,32 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 28: Bitwise operators
  * Lesson 29: advanced bitwise
  * Lesson 30: Random numbers
- * ...  to be completed !!
- * ...
- * ...
+ * Lesson 31: StringBuffer
+ * Lesson 32: Boolean algebra
+ * Lesson 33: Selection operator
+ * Lesson 34: Parsing by value
+ * Lesson 35: 2D arrays
+ * Lesson 36: Inheritance
+ * Lesson 37: Exceptions
+ * Lesson 38: Interfaces
+ * Lesson 39: Complexity analysis
+ * Lesson 40: Recursions
+ * Lesson 41: Sorting routines
+ * Lesson 42: Lists
+ * Lesson 43: ArrayList
+ * Lesson 44: Iterator, ListIterator
+ * Lesson 45: Comparable, comparator
+ * Lesson 46: HashSet, TreeSet
+ * Lesson 47: HashMap, TreeMap
+ * Lesson 48: Flow charts, optimizing for speed
+ * Lesson 49: Singly Linked List
+ * Lesson 50: LinkedList
+ * Lesson 51: Binary search
+ * Lesson 52: Binary search tree
+ * Lesson 53: Queues
+ * Lesson 54: Inner Classes
+ * Lesson 55: Heaps
+ * Lesson 56: Priority Queues
  * Lesson 57: Lookup tables, hashing
  * Distance to Meandering Trail
  * Golden Nuggets

@@ -8,6 +8,16 @@ public class Circle {
         radius = r;
     }
 
+    // @Override
+    public boolean equals(Circle anotherCircle){
+        if(this.radius == anotherCircle.radius) return true;
+        else return false;
+    }
+
+    public String toString(){
+        return "[Circle: radius = "+this.radius+" ]";
+    }
+
     public double diameter(){
         return 2 * radius;
     }

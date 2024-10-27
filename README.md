@@ -27,8 +27,8 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 16: More on classes   [exercises](./app/src/main/java/bpj/lesson16/Exercises.java); [others](./app/src/main/java/bpj/lesson16/)
  * Lesson 17: Advanced String methods   [exercises](./app/src/main/java/bpj/lesson17/Exercises.java); [others](./app/src/main/java/bpj/lesson17/)
  * Lesson 18: Arrays        [exercises](./app/src/main/java/bpj/lesson18/Exercises.java); [others](./app/src/main/java/bpj/lesson18/)
- * Lesson 19: Advanced arrays   (... yet to reach here :penguin: :tropical_fish: :fish:)
- * Lesson 20: Static methods, state variables
+ * Lesson 19: Advanced arrays   [exercises](./app/src/main/java/bpj/lesson19/Exercises.java); [others](./app/src/main/java/bpj/lesson19/)
+ * Lesson 20: Static methods, state variables (... yet to reach here :penguin: :tropical_fish: :fish:)
  * Lesson 21: Wrapper classes
  * Lesson 22: more wrapper classes
  * Lesson 23: StringTokenizer

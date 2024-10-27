@@ -6,17 +6,20 @@ public class ContestType {
     public static void main(String[] args) {
         System.out.println("Lesson 19: Contest Type Problems");
 
-        // prob01();
-        // prob02();
-        // prob03();
-        // prob04();
-        // prob05();
+        prob01();
+        prob02();
+        prob03();
+        prob04();
+        prob05();
 
         prob06();
-        // prob07();
-        // prob08();
-        // prob09();
-        // prob10();
+        prob07();
+        prob08();
+        prob09();
+        prob10();
+
+        prob11();
+        prob12();
     }
 
     private static int[] gem = {-102,14,5,100,-100};
@@ -109,19 +112,47 @@ public class ContestType {
 
     private static void prob08(){
         System.out.println("Problem 8:");
-                
+        System.out.println("Ans: C. 16 is the answer... check ArrayTest class again");
         System.out.println("--------------------------------");
     }
 
     private static void prob09(){
         System.out.println("Problem 9:");
-
+        System.out.println("Ans: C. 56 is the answer... check ArrayTest class again");
         System.out.println("--------------------------------");
     }
 
     private static void prob10(){
         System.out.println("Problem 10:");
-
+        int j, src=2, des=3, hm=2;
+        int[] sa = {100,200,300,400,500};
+        int[] da = {40,50,60,70,80};
+        System.arraycopy(sa, src, da, des, hm);
+        for(j=0; j<da.length; j++){
+            System.out.print(da[j]);
+        }
+        System.out.println("\n");
+        System.out.println("Ans: is D. ... as we can see above");
         System.out.println("--------------------------------");
     }
+
+    private static void prob11(){
+        System.out.println("Problem 11:");
+        int[] aleve = new int[]{1,2,3,4,5,6,7,8};
+        int n = 6;
+        n = aleve[aleve[n]/2];
+        n = aleve[n]%2;
+        System.out.println("Q: what is the value of n");
+        System.out.println("lets print n = "+n);
+        System.out.println("Ans: B. 1");
+        System.out.println("--------------------------------");
+    }
+
+    private static void prob12(){
+        System.out.println("Problem 12:");
+        System.out.println("Q: which statement calculates product of all elements in the array d");
+        System.out.println("Ans: valid statements are A, C, D... \nNOTE in A and D, j is the element of array while in D, C its a loop-counter");
+        System.out.println("--------------------------------");
+    }
+
 }

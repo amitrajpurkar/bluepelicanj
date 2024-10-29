@@ -28,14 +28,14 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 17: Advanced String methods   [exercises](./app/src/main/java/bpj/lesson17/Exercises.java); [others](./app/src/main/java/bpj/lesson17/)
  * Lesson 18: Arrays        [exercises](./app/src/main/java/bpj/lesson18/Exercises.java); [others](./app/src/main/java/bpj/lesson18/)
  * Lesson 19: Advanced arrays   [exercises](./app/src/main/java/bpj/lesson19/Exercises.java); [others](./app/src/main/java/bpj/lesson19/)
- * Lesson 20: Static methods, state variables (... yet to reach here :penguin: :tropical_fish: :fish:)
+ * Lesson 20: Static methods, state variables   [exercises](./app/src/main/java/bpj/lesson20/Exercises.java); [others](./app/src/main/java/bpj/lesson20/)
  * Lesson 21: Wrapper classes
  * Lesson 22: more wrapper classes
  * Lesson 23: StringTokenizer
  * Lesson 24: Input from disk
  * Lesson 25: processing file input
  * Lesson 26: write to text file
- * Lesson 27: Formatting
+ * Lesson 27: Formatting        (... yet to reach here :penguin: :tropical_fish: :fish:)
  * Lesson 28: Bitwise operators
  * Lesson 29: advanced bitwise
  * Lesson 30: Random numbers

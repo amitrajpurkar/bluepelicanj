@@ -29,8 +29,8 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 18: Arrays        [exercises](./app/src/main/java/bpj/lesson18/Exercises.java); [others](./app/src/main/java/bpj/lesson18/)
  * Lesson 19: Advanced arrays   [exercises](./app/src/main/java/bpj/lesson19/Exercises.java); [others](./app/src/main/java/bpj/lesson19/)
  * Lesson 20: Static methods, state variables   [exercises](./app/src/main/java/bpj/lesson20/Exercises.java); [others](./app/src/main/java/bpj/lesson20/)
- * Lesson 21: Wrapper classes
- * Lesson 22: more wrapper classes
+ * Lesson 21: Wrapper classes   [exercises](./app/src/main/java/bpj/lesson21/Exercises.java)
+ * Lesson 22: more wrapper classes      [exercises](./app/src/main/java/bpj/lesson22/Exercises.java)
  * Lesson 23: StringTokenizer
  * Lesson 24: Input from disk
  * Lesson 25: processing file input

@@ -7,19 +7,19 @@ public class Exercises {
     public static void main(String[] args) {
         System.out.println("Lesson 23: String Tokenizer");
 
-        // exer01();
-        // exer02();
-        // exer03();
-        // exer04();
-        // exer05();
-        // exer06();
-        // exer07();
-        // exer08();
-        // exer09();
-        // exer10();
-        // exer11();
-        // exer12();
-        // exer13();
+        exer01();
+        exer02();
+        exer03();
+        exer04();
+        exer05();
+        exer06();
+        exer07();
+        exer08();
+        exer09();
+        exer10();
+        exer11();
+        exer12();
+        exer13();
         exer14();
     }
 

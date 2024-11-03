@@ -16,7 +16,7 @@ public class Exercises {
         exer09();
         exer10();
         exer11();
-        exer12();
+        exer12();   
     }
 
     private static void exer01() {

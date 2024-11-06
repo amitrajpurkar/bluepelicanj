@@ -7,12 +7,25 @@ import java.util.Scanner;
 public class Exercises {
     public static void main(String[] args) {
         System.out.println("Lesson 24: File I/O");
+
+        exer01();
+        exer02();
+        exer03();
+        exer04();
+        exer05();
+        exer06();
+        exer07();
+        exer08();
+        exer09();
+        exer10();
+        exer11();
+        exer12();
     }
 
-    private static String fullpath = "/Users/amitrajpurkar/workspace/bluepelicanj/app/src/main/resources/MyData.in";
-    private static String relpath = "./app/src/main/resources/MyData.in";
-    private static String non_existing_file = "C:\\Disney\\Cartoons\\DaffyDuck.txt";
-    private static String emptyFile = "/Users/amitrajpurkar/workspace/bluepelicanj/app/src/main/resources/MyData2.in";
+    private static final String full_path = "/Users/amitrajpurkar/workspace/bluepelicanj/app/src/main/resources/MyData.in";
+    private static final String relative_path = "./app/src/main/resources/MyData.in";
+    private static final String non_existing_file = "C:\\Disney\\Cartoons\\DaffyDuck.txt";
+    private static final String empty_file = "/Users/amitrajpurkar/workspace/bluepelicanj/app/src/main/resources/MyData2.in";
 
     private static int fileReader(String filepath) {
         try (Scanner sf = new Scanner(new File(filepath))) {
@@ -103,9 +116,9 @@ public class Exercises {
         System.out.println("Exercise 8: ");
         System.out.println("Q: what will be the value of maxIndx at the completion of while loop if the file is empty?");
         System.out.println("Ans: 0");// we need t0 check this... try with empty file
-        int numberOfLines = fileReader(emptyFile);
+        int numberOfLines = fileReader(empty_file);
         System.out.println("The number of lines in the empty file is: " + numberOfLines);
-        System.out.println("number of lines in valid file is: " + fileReader(fullpath));
+        System.out.println("number of lines in valid file is: " + fileReader(full_path));
         System.out.println("number of lines in non existing file is: " + fileReader(non_existing_file));
         System.out.println("--------------------------------");
     }

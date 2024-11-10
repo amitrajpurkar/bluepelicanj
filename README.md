@@ -8,7 +8,7 @@
 
 ---
 
- > examples for Q2 work... [show menus](./app/src/main/java/bpj/q2project/)
+ > examples for Q2 work... [show menus](./app/src/main/java/bpj/q2project/MenuOfFive.java)
  > other key example works
 
 ---

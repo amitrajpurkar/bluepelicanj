@@ -8,6 +8,11 @@
 
 ---
 
+ > examples for Q2 work... [show menus](./app/src/main/java/bpj/q2project/)
+ > other key example works
+
+---
+
 Lessons in this book: (a.k.a _table of contents_)
  * Lesson 1: Hello World    [exercises](./app/src/main/java/bpj/InputProcessor.java) [testCase](./app/src/test/java/bpj/lesson1/Lesson1Tests.java)
  * Lesson 2: Variable Types     [exercises](./app/src/main/java/bpj/lesson2/Tester.java)
@@ -31,11 +36,11 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 20: Static methods, state variables   [exercises](./app/src/main/java/bpj/lesson20/Exercises.java); [others](./app/src/main/java/bpj/lesson20/)
  * Lesson 21: Wrapper classes   [exercises](./app/src/main/java/bpj/lesson21/Exercises.java)
  * Lesson 22: more wrapper classes      [exercises](./app/src/main/java/bpj/lesson22/Exercises.java)
- * Lesson 23: StringTokenizer
- * Lesson 24: Input from disk
- * Lesson 25: processing file input
- * Lesson 26: write to text file
- * Lesson 27: Formatting        (... yet to reach here :penguin: :tropical_fish: :fish:)
+ * Lesson 23: StringTokenizer   [exercises](./app/src/main/java/bpj/lesson23/Exercises.java); [others](./app/src/main/java/bpj/lesson23/)
+ * Lesson 24: Input from disk   [exercises](./app/src/main/java/bpj/lesson24/Exercises.java); [others](./app/src/main/java/bpj/lesson24/)
+ * Lesson 25: processing file input     [no exercises]; [others](./app/src/main/java/bpj/lesson25/)
+ * Lesson 26: write to text file    [no exercises]; [others](./app/src/main/java/bpj/lesson26/StudentAverages.java)
+ * Lesson 27: Formatting        
  * Lesson 28: Bitwise operators
  * Lesson 29: advanced bitwise
  * Lesson 30: Random numbers
@@ -43,7 +48,7 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 32: Boolean algebra
  * Lesson 33: Selection operator
  * Lesson 34: Parsing by value
- * Lesson 35: 2D arrays
+ * Lesson 35: 2D arrays     (... yet to reach here :penguin: :tropical_fish: :fish:)
  * Lesson 36: Inheritance
  * Lesson 37: Exceptions
  * Lesson 38: Interfaces

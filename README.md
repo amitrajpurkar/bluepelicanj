@@ -40,7 +40,7 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 24: Input from disk   [exercises](./app/src/main/java/bpj/lesson24/Exercises.java); [others](./app/src/main/java/bpj/lesson24/)
  * Lesson 25: processing file input     [no exercises]; [others](./app/src/main/java/bpj/lesson25/)
  * Lesson 26: write to text file    [no exercises]; [others](./app/src/main/java/bpj/lesson26/StudentAverages.java)
- * Lesson 27: Formatting        [exercises](./app/src/main/java/bpj/lesson27/Exercises.java); [others]
+ * Lesson 27: Formatting        [exercises](./app/src/main/java/bpj/lesson27/Exercises.java); [others](./app/src/main/java/bpj/lesson27/)
  * Lesson 28: Bitwise operators
  * Lesson 29: advanced bitwise
  * Lesson 30: Random numbers

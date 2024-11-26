@@ -41,8 +41,8 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 25: processing file input     [no exercises]; [others](./app/src/main/java/bpj/lesson25/)
  * Lesson 26: write to text file    [no exercises]; [others](./app/src/main/java/bpj/lesson26/StudentAverages.java)
  * Lesson 27: Formatting        [exercises](./app/src/main/java/bpj/lesson27/Exercises.java); [others](./app/src/main/java/bpj/lesson27/)
- * Lesson 28: Bitwise operators
- * Lesson 29: advanced bitwise
+ * Lesson 28: Bitwise operators     [exercises](./app/src/main/java/bpj/lesson28/Exercises.java); [others](./app/src/main/java/bpj/lesson28/)
+ * Lesson 29: advanced bitwise      [exercises](./app/src/main/java/bpj/lesson29/Exercises.java); [others](./app/src/main/java/bpj/lesson29/)
  * Lesson 30: Random numbers
  * Lesson 31: StringBuffer
  * Lesson 32: Boolean algebra

@@ -43,7 +43,7 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 27: Formatting        [exercises](./app/src/main/java/bpj/lesson27/Exercises.java); [others](./app/src/main/java/bpj/lesson27/)
  * Lesson 28: Bitwise operators     [exercises](./app/src/main/java/bpj/lesson28/Exercises.java); [others](./app/src/main/java/bpj/lesson28/)
  * Lesson 29: advanced bitwise      [exercises](./app/src/main/java/bpj/lesson29/Exercises.java); [others](./app/src/main/java/bpj/lesson29/)
- * Lesson 30: Random numbers
+ * Lesson 30: Random numbers    [exercices](./app/src/main/java/bpj/lesson30/Exercises.java); [others](./app/src/main/java/bpj/lesson30/)
  * Lesson 31: StringBuffer
  * Lesson 32: Boolean algebra
  * Lesson 33: Selection operator

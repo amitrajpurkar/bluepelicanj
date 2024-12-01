@@ -48,7 +48,7 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 32: Boolean algebra ...(pending some)  [exercises](./app/src/main/java/bpj/lesson32/Exercises.java); [others](./app/src/main/java/bpj/lesson32/)
  * Lesson 33: Selection operator    [exercises](./app/src/main/java/bpj/lesson33/Exercises.java); [others](./app/src/main/java/bpj/lesson33/)
  * Lesson 34: Parsing by value  [exercises](./app/src/main/java/bpj/lesson34/Exercises.java); [others](./app/src/main/java/bpj/lesson34/)
- * Lesson 35: 2D arrays     
+ * Lesson 35: 2D arrays         [exercises](./app/src/main/java/bpj/lesson35/Exercises.java); [others](./app/src/main/java/bpj/lesson35/)    
  * Lesson 36: Inheritance
  * Lesson 37: Exceptions
  * Lesson 38: Interfaces

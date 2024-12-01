@@ -45,15 +45,15 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 29: advanced bitwise      [exercises](./app/src/main/java/bpj/lesson29/Exercises.java); [others](./app/src/main/java/bpj/lesson29/)
  * Lesson 30: Random numbers    [exercises](./app/src/main/java/bpj/lesson30/Exercises.java); [others](./app/src/main/java/bpj/lesson30/)
  * Lesson 31: StringBuffer      [exercises](./app/src/main/java/bpj/lesson31/Exercises.java); [others](./app/src/main/java/bpj/lesson31/)
- * Lesson 32: Boolean algebra
- * Lesson 33: Selection operator
- * Lesson 34: Parsing by value
- * Lesson 35: 2D arrays     (... yet to reach here :penguin: :tropical_fish: :fish:)
+ * Lesson 32: Boolean algebra ...(pending some)  [exercises](./app/src/main/java/bpj/lesson32/Exercises.java); [others](./app/src/main/java/bpj/lesson32/)
+ * Lesson 33: Selection operator    [exercises](./app/src/main/java/bpj/lesson33/Exercises.java); [others](./app/src/main/java/bpj/lesson33/)
+ * Lesson 34: Parsing by value  [exercises](./app/src/main/java/bpj/lesson34/Exercises.java); [others](./app/src/main/java/bpj/lesson34/)
+ * Lesson 35: 2D arrays     
  * Lesson 36: Inheritance
  * Lesson 37: Exceptions
  * Lesson 38: Interfaces
  * Lesson 39: Complexity analysis
- * Lesson 40: Recursions
+ * Lesson 40: Recursions        (... yet to reach here :penguin: :tropical_fish: :fish:)
  * Lesson 41: Sorting routines
  * Lesson 42: Lists
  * Lesson 43: ArrayList

@@ -4,7 +4,8 @@
 
 ```here are some handy links for the author !!```
  * [markdown reference](https://www.markdownguide.org/basic-syntax/); [emoji list](https://gist.github.com/rxaviers/7360908); [commit emojis](https://gitmoji.dev)
- * 
+ * [vercel stats](https://gh-stats-gen.vercel.app); [repo-tracker](https://repo-tracker.com/dashboard); 
+ * [Coder-Stats](https://coderstats.github.io/github/#amitrajpurkar)
 
 ---
 
@@ -49,18 +50,18 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 33: Selection operator    [exercises](./app/src/main/java/bpj/lesson33/Exercises.java); [others](./app/src/main/java/bpj/lesson33/)
  * Lesson 34: Parsing by value  [exercises](./app/src/main/java/bpj/lesson34/Exercises.java); [others](./app/src/main/java/bpj/lesson34/)
  * Lesson 35: 2D arrays         [exercises](./app/src/main/java/bpj/lesson35/Exercises.java); [others](./app/src/main/java/bpj/lesson35/)    
- * Lesson 36: Inheritance
- * Lesson 37: Exceptions
+ * Lesson 36: Inheritance       [exer-A](./app/src/main/java/bpj/lesson36/ExercisesA.java); [others](./app/src/main/java/bpj/lesson36/)
+ * Lesson 37: Exceptions        [exercises](./app/src/main/java/bpj/lesson37/Exercises.java); [others](./app/src/main/java/bpj/lesson37/)
  * Lesson 38: Interfaces
  * Lesson 39: Complexity analysis
- * Lesson 40: Recursions        (... yet to reach here :penguin: :tropical_fish: :fish:)
+ * Lesson 40: Recursions        
  * Lesson 41: Sorting routines
  * Lesson 42: Lists
  * Lesson 43: ArrayList
  * Lesson 44: Iterator, ListIterator
  * Lesson 45: Comparable, comparator
  * Lesson 46: HashSet, TreeSet
- * Lesson 47: HashMap, TreeMap
+ * Lesson 47: HashMap, TreeMap      (... yet to reach here :penguin: :tropical_fish: :fish:)
  * Lesson 48: Flow charts, optimizing for speed
  * Lesson 49: Singly Linked List
  * Lesson 50: LinkedList

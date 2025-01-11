@@ -20,8 +20,7 @@ public class Tester {
 
         Feeder fone3 = new Feeder(100);
         fone3.simulateOneDay(5);
-        System.out.println("Feeder has " + fone3.getCurrentFood() + " grams of food left.");
-
+        
         System.out.println("---- End of Testing Bird Feeder, Single Day ----------");
     }
 

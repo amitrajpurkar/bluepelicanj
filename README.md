@@ -52,8 +52,8 @@ Lessons in this book: (a.k.a _table of contents_)
  * Lesson 35: 2D arrays         [exercises](./app/src/main/java/bpj/lesson35/Exercises.java); [others](./app/src/main/java/bpj/lesson35/)    
  * Lesson 36: Inheritance       [exer-A](./app/src/main/java/bpj/lesson36/ExercisesA.java); [others](./app/src/main/java/bpj/lesson36/)
  * Lesson 37: Exceptions        [exercises](./app/src/main/java/bpj/lesson37/Exercises.java); [others](./app/src/main/java/bpj/lesson37/)
- * Lesson 38: Interfaces
- * Lesson 39: Complexity analysis
+ * Lesson 38: Interfaces        [exercises](./app/src/main/java/bpj/lesson38/Exercises.java); [others](./app/src/main/java/bpj/lesson38/)
+ * Lesson 39: Complexity analysis   [exercises](./app/src/main/java/bpj/lesson39/Exercises.java); [others](./app/src/main/java/bpj/lesson39/)
  * Lesson 40: Recursions        
  * Lesson 41: Sorting routines
  * Lesson 42: Lists

@@ -39,7 +39,8 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'com.anr.App'
+    // mainClass = 'com.anr.App'
+    mainClass = 'apcentral.ap2024frq.Tester'
 }
 
 tasks.named('test') {

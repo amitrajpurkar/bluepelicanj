@@ -48,6 +48,8 @@ public class Feeder {
         if (numBirds < 0) {
             throw new IllegalArgumentException("numBirds must be >= 0");
         }
+        System.out.println("--- Simulating One Day ---");
+        System.out.println("Day starts with " + currentFood + " grams of food in the feeder.");
         if (isBear()) {
             System.out.println("abnormal conditions: The bear emptied the feeder.");
             currentFood = 0;
@@ -63,6 +65,8 @@ public class Feeder {
             System.out.println("The birds consumed " + foodConsumed + " grams of food.");
             //System.out.println("The amount of food in the feeder at the end of the day is " + currentFood + " grams.");
         }
+        System.out.println("Feeder has " + getCurrentFood() + " grams of food left.");
+        System.out.println("--- End of Day ---");
     }
 
     // 5% of the time, abnormal conditions occur, the bear empties the feeder

@@ -1,12 +1,68 @@
 package apcentral.ap2024frq;
 
+/**
+ * try out the coding examples from 2024 FRQ for AP Computer Science A
+ * https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf
+ */
 public class Tester {
     public static void main(String[] args) {
         System.out.println("Testing AP 2024 FRQ");
 
         simulateSingleDays();
         //simulateMultipleDays();
+        playGame1();
         
+    }
+
+    private static void playGame1() {
+        System.out.println("---- Play Game 1 ----------");
+        String info;
+        Scoreboard game = new Scoreboard("Red", "Blue");
+        info = game.getScore();
+        System.out.println(info);
+        game.recordPlay(1);
+        info = game.getScore();
+        System.out.println(info);
+        game.recordPlay(0);
+        info = game.getScore();
+        System.out.println(info);
+        info = game.getScore();
+        System.out.println(info);
+        game.recordPlay(3);
+        info = game.getScore();
+        System.out.println(info);
+        game.recordPlay(1);
+        game.recordPlay(0);
+        info = game.getScore();
+        System.out.println(info);
+        game.recordPlay(0);
+        game.recordPlay(4);
+        game.recordPlay(0);
+        info = game.getScore();
+        System.out.println(info);
+        System.out.println("---- End of Testing Play Game 1 ----------");
+    }
+
+    private static void playGame2() {
+        System.out.println("---- Play Game 2 ----------");
+        String info;
+        Scoreboard match = new Scoreboard("Lions", "Tigers");
+        info = match.getScore();
+        System.out.println(info);
+        match.recordPlay(1);
+        info = match.getScore();
+        System.out.println(info);
+        match.recordPlay(0);
+        info = match.getScore();
+        System.out.println(info);
+        info = match.getScore();
+        System.out.println(info);
+        match.recordPlay(3);
+        info = match.getScore();
+        System.out.println(info);
+        match.recordPlay(1);
+        match.recordPlay(0);
+        info = match.getScore();
     }
 
     private static void simulateSingleDays() {
